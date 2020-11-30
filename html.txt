@@ -1,0 +1,33 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>学成在线</title>
+ <link href="style.css" rel="stylesheet" type="text/css"/> 
+</head>
+<body>
+<div id="main">
+  <div id="head">
+    <div id="logo">
+        <img src="images/logo.png">
+    </div>
+    <div id="nav">
+        <ul>
+            <li><a href="#">首页</a></li>
+            <li><a href="#">课程</a></li>
+            <li><a href="#">职业规划</a></li>
+        </ul>
+    </div>
+    <div id="search">
+        <input type="search" name="ss" value="" placeholder="输入关键词">
+        <button></button>
+    </div>
+    <div class="user">
+            <img src="images/user.png" alt="" style="vertical-align: middle;">
+            <span>qq-lilei</span>
+        </div>
+  </div>
+  </div>
+ 
+ 
+
+</body></html>
